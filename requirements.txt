@@ -1,0 +1,16 @@
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+cryptography==3.2.1
+future==0.18.2
+idna==2.10
+pycparser==2.20
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+PyVimeo==1.1.0
+requests==2.24.0
+six==1.15.0
+tinydb==4.2.0
+tuspy==0.2.4
+urllib3==1.25.11
